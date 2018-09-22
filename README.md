@@ -1,2 +1,11 @@
+
+# Creator HungKuen
 # NanonautGame
-Create with &lt;Code> Make your own game
+Create with <Code> Make your own game
+
+Made from the CoderDojo book
+Create with code make yout own game
+
+https://coderdojo.com/
+http://nano.tips/
+
